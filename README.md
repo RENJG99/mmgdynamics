@@ -7,7 +7,7 @@ In here you find an implementation of the [MMG standard model](https://doi.org/1
 Install the package via pip:
 
 ```bash
-pip install git+https://github.com/nikpau/mmgdynamics
+pip install git+https://github.com/RENJG99/mmgdynamics
 ```
 
 ## Dynamics
